@@ -52,6 +52,12 @@ header .kobe {
     width: 60%;
     padding: 10px;
 }
+.hypews{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    font-size: 10px;
+}
 .body{
     margin: auto;
     width: 80%;
