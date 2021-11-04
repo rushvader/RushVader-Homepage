@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef414128-4a2f-4601-afb6-66a480d6bbb0" name="Default Changelist" comment="removed some things">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1pAUfB9LJZ88ZTE8oDrcDRmKN9G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RandomStuff.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/fade-in.css/RandomStuff.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.RandomStuff.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef414128-4a2f-4601-afb6-66a480d6bbb0" name="Default Changelist" comment="" />
+      <created>1614625488232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614625488232</updated>
+      <workItem from="1614625489317" duration="493000" />
+      <workItem from="1614630939445" duration="2081000" />
+      <workItem from="1614864279501" duration="1199000" />
+      <workItem from="1615576997441" duration="4023000" />
+      <workItem from="1615650350107" duration="591000" />
+      <workItem from="1621966024764" duration="670000" />
+      <workItem from="1624228393938" duration="1575000" />
+      <workItem from="1624570129363" duration="326000" />
+      <workItem from="1633380807214" duration="3761000" />
+      <workItem from="1633458061145" duration="1423000" />
+      <workItem from="1633554604538" duration="1808000" />
+      <workItem from="1634585091287" duration="1301000" />
+      <workItem from="1636037412007" duration="618000" />
+    </task>
+    <task id="LOCAL-00001" summary="kobe">
+      <created>1614631051135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614631051135</updated>
+    </task>
+    <task id="LOCAL-00002" summary="kobe">
+      <created>1615577174673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615577174673</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new icon">
+      <created>1615577769986</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615577769986</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dark mode">
+      <created>1615579650988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615579650988</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update.">
+      <created>1633381916758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633381916758</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added random page">
+      <created>1633384321051</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633384321051</updated>
+    </task>
+    <task id="LOCAL-00007" summary="removed access random page">
+      <created>1633384551769</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633384551769</updated>
+    </task>
+    <task id="LOCAL-00008" summary="removed some things">
+      <created>1633554839737</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1633554839737</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kobe" />
+    <MESSAGE value="new icon" />
+    <MESSAGE value="dark mode" />
+    <MESSAGE value="Update." />
+    <MESSAGE value="added random page" />
+    <MESSAGE value="removed access random page" />
+    <MESSAGE value="removed some things" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed some things" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
